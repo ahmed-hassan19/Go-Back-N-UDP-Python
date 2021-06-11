@@ -1,0 +1,32 @@
+For experiment of test_file_1_output.txt with the following parameters: 
+                {
+                MSS: 1400
+                WINDOW_SIZE: 10
+                TIME_OUT: 2
+                }
+                It took 0.14291048049926758 secs to transmit 108 with a transmssion rate = 755.7178425451694 packets/sec                
+************************************************************************************************************************
+For experiment of test_file_1_output.txt with the following parameters: 
+                {
+                MSS: 1400
+                WINDOW_SIZE: 10
+                TIME_OUT: 2
+                }
+                It took 2.91694712638855 secs to transmit 108 packets with a transmission rate = 37.02501119165433 packets/sec                
+************************************************************************************************************************
+For experiment of test_file_2_output.txt with the following parameters: 
+                {
+                MSS: 1400
+                WINDOW_SIZE: 10
+                TIME_OUT: 2
+                }
+                It took 29.439542531967163 secs to transmit 1812 packets with a transmission rate = 61.54986946663404 packets/sec                
+************************************************************************************************************************
+For experiment of test_file_3_output.txt with the following parameters: 
+                {
+                MSS: 1400
+                WINDOW_SIZE: 10
+                TIME_OUT: 2
+                }
+                It took 93.49919056892395 secs to transmit 7825 packets with a transmission rate = 83.69056408281648 packets/sec                
+************************************************************************************************************************
